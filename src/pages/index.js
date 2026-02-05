@@ -67,7 +67,7 @@ export default function Home() {
             </div>
 
             <h1 className="font-romantic text-6xl md:text-8xl text-valentine-rose mb-4">
-              Happy Valentine's
+              Happy Valentine's Day
             </h1>
             <h2 className="text-2xl md:text-4xl text-valentine-pink font-light mb-8">
               A Special Day for Special Love 💕
