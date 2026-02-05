@@ -22,7 +22,7 @@ jobs:
           script: |
             set -e
 
-            cd /home/ec2-user/happy
+            cd /home/ec2-user/apps/celebrate
 
             echo "Pulling latest code..."
             git pull origin master
